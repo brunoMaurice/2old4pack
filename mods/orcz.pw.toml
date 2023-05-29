@@ -1,0 +1,13 @@
+name = "Vanilla Expanded - Orcz"
+filename = "Orcz_0.85_1.19.2[PORT].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db0b705354dca2928330a93f68358568632c40ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4331348
+project-id = 581652

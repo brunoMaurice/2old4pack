@@ -1,0 +1,13 @@
+name = "WATERFrAMES | Online Little Picture Frames"
+filename = "WATERFrAMES-1.19.2-1.2.0c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b03f2e13567d30b98c2fada6bc853c479a796b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4515511
+project-id = 834607

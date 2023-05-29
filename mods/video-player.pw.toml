@@ -1,0 +1,13 @@
+name = "Video Player"
+filename = "VideoPlayer-1.0-RELEASE-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "434b1d9d17ddbc599eba4b5b9321561576ae0cb7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4549241
+project-id = 645407

@@ -1,0 +1,13 @@
+name = "2 Old 4 Pack"
+author = "MDidia"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d0941477270308adb8e40c55b6e7a79e36039ad1d8a17535f8b536c3c0804be3"
+
+[versions]
+forge = "43.2.11"
+minecraft = "1.19.2"
