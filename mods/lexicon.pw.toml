@@ -1,0 +1,13 @@
+name = "Lexicon"
+filename = "Lexicon-1.19.3-(v.1.4.2a-fabric).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7RSp3ivG/versions/8O3sBf5s/Lexicon-1.19.3-%28v.1.4.2a-fabric%29.jar"
+hash-format = "sha1"
+hash = "a24c497578fe4c329ac5d99a2b4e2995c097b05f"
+
+[update]
+[update.modrinth]
+mod-id = "7RSp3ivG"
+version = "8O3sBf5s"

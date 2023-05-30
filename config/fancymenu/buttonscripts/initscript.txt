@@ -1,0 +1,2 @@
+downloadfile:https://bigcommunitygames.com/b2b.txt;config/fancymenu/customization/b2b.txt
+reloadmenu

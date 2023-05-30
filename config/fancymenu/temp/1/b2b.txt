@@ -1,0 +1,203 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/assets/bg/bg-crystal.png
+  action = texturizebackground
+}
+
+customization {
+  action = setscale
+  scale = 3
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400310%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400358%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604394%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400286%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400394%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=89517%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=89517%
+  orientation = mid-centered
+  x = -50
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=87517%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502394%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376394%
+  action = hidebutton
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  buttonaction = runscript
+  backgroundhovered = config\fancymenu\assets\buttons\update_hover.png
+  label = 
+  loopbackgroundanimations = true
+  x = -50
+  width = 100
+  actionid = ef96600e-a88e-419b-8d46-bd98baa725371642212090373
+  action = addbutton
+  y = -48
+  backgroundnormal = config\fancymenu\assets\buttons\update.png
+  value = update
+  height = 35
+}
+
+customization {
+  orientation = top-left
+  name = main_slideshow
+  x = 15
+  width = 611
+  actionid = 73b74ce6-aaaf-4b79-9aa4-7f5fe6139f331644110814001
+  action = addslideshow
+  y = 13
+  height = 286
+}
+
+customization {
+  path = config/fancymenu/assets/bg/translucent.png
+  orientation = top-left
+  x = 221
+  width = 203
+  action = addtexture
+  actionid = ee2ba1c9-55f5-4131-903b-f6ea30ef13121644089788274
+  y = 57
+  height = 39
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 231
+  actionid = 1a63ea24-efef-4100-8826-e9a95a00985d1643359690532
+  action = addtext
+  y = 68
+  scale = 3.0
+  alignment = left
+  value = UPDATE 1.3.1
+}
+
+customization {
+  path = config/fancymenu/assets/bg/translucent.png
+  orientation = top-left
+  x = 179
+  width = 285
+  action = addtexture
+  actionid = b315cc0b-6e54-4955-9403-2c2a7e78b2b81645013247576
+  y = 151
+  height = 36
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 187
+  actionid = 1b39c44e-66aa-4e03-a9c5-5904bbae62e41645013349914
+  action = addtext
+  y = 159
+  scale = 1.0
+  alignment = left
+  value = Some additional files are needed in order to proceed.
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 323
+  actionid = 925f4d52-298f-4258-a357-cbc41633e2701645013439319
+  action = addtext
+  y = 174
+  scale = 1.0
+  alignment = centered
+  value = (The game will close after updating)
+}
+
+customization {
+  path = config/fancymenu/assets/bg/translucent.png
+  orientation = top-left
+  x = 276
+  width = 86
+  action = addtexture
+  actionid = 59a0fd80-fed4-4112-b188-7012ac430ab81645017760900
+  y = 251
+  height = 31
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 286
+  actionid = f2ec82fd-23a2-4386-9783-47786b4010de1645017730720
+  action = addtext
+  y = 261
+  scale = 2.0
+  alignment = left
+  value = STEP 1
+}
+

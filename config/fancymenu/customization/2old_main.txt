@@ -1,0 +1,270 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 3
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376310%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 268
+  action = deep_customization_element:title_screen_branding
+  actionid = 030886a9-2f13-4e7e-97b0-acfcf6c475511670094604722
+  y = 348
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = c201d5ca-a7f4-4bc2-8631-6c44bdce9baf1670094604722
+  y = 190
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 072439fd-3d6d-4d6e-9b17-819a5c2c56421670094604722
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = e46e0112-8cc0-4151-87d8-47077ff2a7441670094604722
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.04
+  buttonaction = opengui;net.minecraft.class_526%btnaction_splitter_fm%
+  backgroundhovered = config\fancymenu\assets\buttons\single_hover.png
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 8.0
+  x = -200
+  width = 35
+  action = addbutton
+  actionid = e6ed0503-0b93-497a-a950-041691e588d11642212309427
+  y = -48
+  delayappearance = true
+  backgroundnormal = config\fancymenu\assets\buttons\single.png
+  delayappearanceeverytime = true
+  height = 35
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.06
+  buttonaction = opengui;net.minecraft.class_500%btnaction_splitter_fm%
+  backgroundhovered = config\fancymenu\assets\buttons\multi_hover.png
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 8.0
+  x = -150
+  width = 35
+  action = addbutton
+  actionid = 732284a4-a4c1-43e3-aaf1-826ac77d15cc1642212377587
+  y = -48
+  delayappearance = true
+  backgroundnormal = config\fancymenu\assets\buttons\multi.png
+  delayappearanceeverytime = true
+  height = 35
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.02
+  buttonaction = opengui;net.minecraft.class_429%btnaction_splitter_fm%
+  backgroundhovered = config\fancymenu\assets\buttons\options_hover.png
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 8.0
+  x = 65
+  width = 35
+  action = addbutton
+  actionid = 0df000a1-62a8-4f9b-88f3-1be5b0e7de5e1642212237413
+  y = -48
+  delayappearance = true
+  backgroundnormal = config\fancymenu\assets\buttons\options.png
+  delayappearanceeverytime = true
+  height = 35
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.03
+  buttonaction = opengui;com.terraformersmc.modmenu.gui.ModsScreen%btnaction_splitter_fm%
+  backgroundhovered = config\fancymenu\assets\buttons\mods_hover.png
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 8.0
+  x = 115
+  width = 35
+  action = addbutton
+  actionid = 6ddac8a8-2910-43a9-bb27-81ae1f4a32751642212151199
+  y = -48
+  delayappearance = true
+  backgroundnormal = config\fancymenu\assets\buttons\mods.png
+  delayappearanceeverytime = true
+  height = 35
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.06
+  buttonaction = opengui;net.minecraft.class_5375%btnaction_splitter_fm%
+  backgroundhovered = config\fancymenu\assets\buttons\resourcepacks_hover.png
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 8.0
+  x = -100
+  width = 35
+  action = addbutton
+  actionid = f72a7b01-5080-4ac1-b182-0e7aa405b19b1642265487325
+  y = -48
+  delayappearance = true
+  backgroundnormal = config\fancymenu\assets\buttons\resourcepacks.png
+  delayappearanceeverytime = true
+  height = 35
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.06
+  buttonaction = quitgame;%btnaction_splitter_fm%
+  backgroundhovered = config\fancymenu\assets\buttons\quit_hover.png
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 8.0
+  x = 165
+  width = 35
+  action = addbutton
+  actionid = 0e99470e-61f3-4cf0-ad28-1f558c058f041642212403437
+  y = -48
+  delayappearance = true
+  backgroundnormal = config\fancymenu\assets\buttons\quit.png
+  delayappearanceeverytime = true
+  height = 35
+}
+
+customization {
+  path = config/fancymenu/assets/bg/logo.png
+  orientation = top-centered
+  x = -219
+  width = 438
+  action = addtexture
+  actionid = 14291763-2df4-4575-a65a-a8db36bf1bd21685470295576
+  y = 37
+  height = 58
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_500%btnaction_splitter_fm%
+  backgroundhovered = config\fancymenu\assets\buttons\35x100_hover.png
+  label = 
+  loopbackgroundanimations = true
+  x = -50
+  width = 100
+  actionid = ef96600e-a88e-419b-8d46-bd98baa725371642212090373
+  action = addbutton
+  y = -48
+  backgroundnormal = config\fancymenu\assets\buttons\35x100.png
+  value = custommain
+  height = 35
+}

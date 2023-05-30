@@ -1,0 +1,2 @@
+copyfile:config/fancymenu/temp/3/b2b.txt;config/fancymenu/customization/b2b.txt
+quitgame

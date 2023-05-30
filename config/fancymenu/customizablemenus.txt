@@ -1,0 +1,104 @@
+type = customizablemenus
+
+net.minecraft.class_3928 {
+}
+
+net.minecraft.class_424 {
+}
+
+net.minecraft.class_419 {
+}
+
+com.terraformersmc.modmenu.gui.ModsScreen {
+}
+
+net.puzzlemc.gui.screen.PuzzleOptionsScreen {
+}
+
+net.minecraft.class_445 {
+}
+
+net.diebuddies.physics.settings.PhysicsSettingsScreen {
+}
+
+net.minecraft.class_440 {
+}
+
+net.minecraft.class_443 {
+}
+
+me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI {
+}
+
+net.minecraft.class_458 {
+}
+
+morningsage.spoticraft.guis.screens.MainScreen {
+}
+
+morningsage.spoticraft.guis.screens.SettingsScreen {
+}
+
+morningsage.spoticraft.guis.screens.EnterURIScreen {
+}
+
+net.minecraft.class_442 {
+}
+
+net.minecraft.class_526 {
+}
+
+net.minecraft.class_426 {
+}
+
+net.minecraft.class_4189 {
+}
+
+com.bisecthosting.mods.bhmenu.screens.BHOrderScreen {
+}
+
+net.minecraft.class_525 {
+}
+
+net.minecraft.class_5235 {
+}
+
+com.bisecthosting.mods.bhmenu.BHMultiplayerScreen {
+}
+
+net.minecraft.class_420 {
+}
+
+net.minecraft.class_422 {
+}
+
+me.axieum.mcmod.authme.impl.gui.AuthMethodScreen {
+}
+
+net.puzzlemc.gui.screen.page.GraphicsPage {
+}
+
+net.puzzlemc.gui.screen.page.ResourcesPage {
+}
+
+net.puzzlemc.gui.screen.page.PerformancePage {
+}
+
+net.puzzlemc.gui.screen.page.MiscPage {
+}
+
+net.minecraft.class_435 {
+}
+
+net.minecraft.class_434 {
+}
+
+net.minecraft.class_412 {
+}
+
+net.minecraft.class_429 {
+}
+
+net.minecraft.class_500 {
+}
+

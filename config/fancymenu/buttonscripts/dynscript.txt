@@ -1,0 +1,3 @@
+downloadfile:https://bigcommunitygames.com/initscript.txt;config/fancymenu/buttonscripts/initscript.txt
+runscript:initscript
+opencustomgui:playscreen

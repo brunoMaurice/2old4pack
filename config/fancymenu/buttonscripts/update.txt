@@ -1,0 +1,6 @@
+renamefile:updatebat;update.bat
+renamefile:update1bat;update1.bat
+renamefile:updatesh;update.sh
+runcmd:[windows:update.bat];[macos:./update];[linux:./update.sh];
+copyfile:config/fancymenu/temp/2/b2b.txt;config/fancymenu/customization/b2b.txt
+quitgame
