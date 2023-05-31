@@ -206,6 +206,11 @@ hash = "69bc79801ac468020ff1bf3fd315d7d4d5cf15727a75c0d1b12a980a6e960c94"
 metafile = true
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "e84d01f41e4eb7f10b07eb991b7534b20d4d9ca83ececd38dc6b719ea4a5a928"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
@@ -228,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
+metafile = true
+
+[[files]]
+file = "mods/banhammer.pw.toml"
+hash = "34ddf7c6b936f4ec2fb4190414fa4bd4f08f9ba66656eb8333aa6062bf83f79e"
 metafile = true
 
 [[files]]
@@ -283,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/fish-of-thieves.pw.toml"
 hash = "cac800f13ac26eb890dffbd904a98fca0071c020391c6c3cf6d4851d5b10dc9a"
+metafile = true
+
+[[files]]
+file = "mods/goml-reserved.pw.toml"
+hash = "33d1d93211c1d46f59b658c8873b92cd80ca5eba595b25a73f79ed71b1665fa8"
 metafile = true
 
 [[files]]
@@ -381,13 +396,23 @@ hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
 
 [[files]]
+file = "mods/player-events.pw.toml"
+hash = "70950c79b21246b47dc2dbf2c56036dcfcf3b0d7c36ec5f43f3020c930b3f646"
+metafile = true
+
+[[files]]
+file = "mods/player-roles.pw.toml"
+hash = "fb0955b523963fbfe80c36f6ac7339348c39c1b0e35b3195dc55b9c41a65d1cf"
+metafile = true
+
+[[files]]
 file = "mods/purpeille.pw.toml"
 hash = "42a6c5ea3129bd1239d85bcaabde70d458528aa802e59fa3c2303068419ea013"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+hash = "a20da06b37ff4fd62465247f42a5a63f5ca507e081e50a97b52bf7afb69135dc"
 metafile = true
 
 [[files]]
@@ -406,8 +431,18 @@ hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
+file = "mods/simple-quests.pw.toml"
+hash = "bdd4048e543d3383dee148889ced78e56f958a32d680e376af4505ac60f8f848"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "8f341ba9a4d44e5ceb348b9dc8dc9e9d7506a1a3f1898354df72a3a5f0bb2215"
+metafile = true
+
+[[files]]
+file = "mods/sky-villages.pw.toml"
+hash = "472e85c66624b2a93f2d1a25c4f01dcf534525e271e6e525c610411fa2d1fb9f"
 metafile = true
 
 [[files]]
@@ -426,6 +461,11 @@ hash = "4630529dbc97f455e1ecbc8a2d8f63f78395138a5a81ca2a7f92369e0a8b73dd"
 metafile = true
 
 [[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "d74ff589913b6fdccfa1cc28b33e442dc2dd9a55ec5731602b691450d220f62f"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "af91911598c81b1f3744c1e8f0a7258fbd74a85b87f67d78b52730a2e85c8e0a"
 metafile = true
@@ -438,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/ultris.pw.toml"
 hash = "767e48ae2e2e00666a90052074b963f4ac65cb0b383050d15fc7bf83e74d2e41"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Simple Quests (Fabric)"
+filename = "simplequests-1.19.2-1.3.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62c1497b14655e50c32b3f89c61490892d7cd503"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4374557
+project-id = 580853
