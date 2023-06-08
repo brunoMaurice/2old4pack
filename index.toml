@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "ebabe04ca6e73698666ad6a987d41615baa423edd5e4c97da1c2c2cec99f34ce"
+
+[[files]]
 file = "config/fancymenu/assets/bg/logo.png"
 hash = "26668b17a8f71651aa28e7b43464ae6883ee61a9efa6be45caca0f1b566f8b13"
 
@@ -199,6 +203,10 @@ hash = "a855c4fcb241b7888b5642a53347dc3d79eeb4d23b4abf34c241943f7733acdb"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "a34eff2c8005644a14191ee185df7260e5f8a58971a839ae17b8f0272f87b625"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
