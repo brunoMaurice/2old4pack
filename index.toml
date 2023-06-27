@@ -214,11 +214,6 @@ hash = "69bc79801ac468020ff1bf3fd315d7d4d5cf15727a75c0d1b12a980a6e960c94"
 metafile = true
 
 [[files]]
-file = "mods/anti-xray.pw.toml"
-hash = "e84d01f41e4eb7f10b07eb991b7534b20d4d9ca83ececd38dc6b719ea4a5a928"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
@@ -354,6 +349,16 @@ hash = "fd969c09721d1e514951122fa028e2a2c08e4df433522d4798460b122728dd88"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "54037e4122f477f500dc3002b2f0ab9cda99d0fceb70da1d163be1afc99ec060"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "d969b4fa4fbb0b33aecaf62de481dcb707517fbe27c07e8ea2bf468a6d2b0e68"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
@@ -361,6 +366,11 @@ metafile = true
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
 hash = "de55e473653cdd5046f3f79220f6aa9d1cf0eccfe97e8902c72935d0bbb0272e"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
 
 [[files]]
@@ -401,16 +411,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
-metafile = true
-
-[[files]]
-file = "mods/player-events.pw.toml"
-hash = "70950c79b21246b47dc2dbf2c56036dcfcf3b0d7c36ec5f43f3020c930b3f646"
-metafile = true
-
-[[files]]
-file = "mods/player-roles.pw.toml"
-hash = "fb0955b523963fbfe80c36f6ac7339348c39c1b0e35b3195dc55b9c41a65d1cf"
 metafile = true
 
 [[files]]
@@ -501,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "e61c296aa297779459086a93d9cb8eb2528541b78cdee90c8cb1ff2ee83fa06a"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
 metafile = true
 
 [[files]]

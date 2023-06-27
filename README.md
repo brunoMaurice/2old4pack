@@ -15,6 +15,7 @@ Architectury API
 Audio Extension for FancyMenu
 Auudio
 Balm
+BanHammer
 BetterF3
 Botarium
 Cloth Config API
@@ -26,6 +27,7 @@ Emotecraft
 FancyMenu
 FerriteCore
 Fish of Thieves
+Get Off My Lawn ReServed
 Indium
 Inspecio
 Iris Shaders
@@ -35,8 +37,11 @@ Konkrete
 LambDynamicLights
 LazyDFU
 Lexicon
+Light Overlay
+Litematica
 Lithium
 Lootr (Fabric)
+MaLiLib
 Malum (Quilt)
 Memory Leak Fix
 Mining Dimensions [FABRIC]
@@ -51,15 +56,19 @@ Roughly Enough Items (REI)
 Resourceful Config
 Resourceful Lib
 Simple Voice Chat
+Sky Villages
 Sodium
 Starlight (Fabric)
 Supplementaries
+Textile Backup
 Traveler's Backpack
 Trinkets
 Ultris: Boss Expansion
+Universal Graves
 Vinery
 Waystone Towers
 Waystones
+WorldEdit
 YUNG's API
 YUNG's Better Dungeons
 YUNG's Better Mineshafts
@@ -69,4 +78,3 @@ YUNG's Better Strongholds
 YUNG's Better Witch Huts
 YUNG's Bridges
 YUNG's Extras
-
